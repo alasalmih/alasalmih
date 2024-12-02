@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alasalmih
-- 👀 I’m working with map services for satellite data and hoping to develope in that field.
-- 🌱 Currently I'm trying to attend to a course of full stack development.
+- 👀 I’m working with map services for satellite data.
+- 🌱 Currently developing tarkka.syke.fi.
 
 
 <!---
